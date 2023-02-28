@@ -1,6 +1,6 @@
 require("@nomicfoundation/hardhat-toolbox");
 
-const TESTNET_API_KEY = "d0f3d1a282be7ec0489e0c37130d104e8297397cccadeaa8cb30d680aa48a128";
+const TESTNET_API_KEY = "<PRIVATE_KEY>";
 
 /** @type import('hardhat/config').HardhatUserConfig */
 module.exports = {
