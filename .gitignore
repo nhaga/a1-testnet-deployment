@@ -1,0 +1,11 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+brownie/venv
+
+hardhat/node_modules
+hardhat/artifacts
+hardhat/cache

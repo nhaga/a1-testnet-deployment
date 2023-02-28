@@ -1,0 +1,3 @@
+dotenv: .env
+wallets:
+  dummy: ${PRIVATE_KEY}
